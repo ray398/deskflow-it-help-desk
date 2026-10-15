@@ -11,6 +11,20 @@ Organisations receive IT requests involving hardware, software, network access, 
 
 DeskFlow provides a central interface for submitting support tickets, managing their status, recording communication, and reviewing support activity.
 
+## Application Screenshots
+
+### Dashboard
+![DeskFlow dashboard](screenshots/Dashboard.PNG)
+
+### Ticket List
+![DeskFlow ticket list](screenshots/Ticket-list.PNG)
+
+### Team performance
+![DeskFlow ticket details](screenshots/Team-performance.PNG)
+
+### Create Ticket
+![DeskFlow create ticket form](screenshots/Ticket-submission.PNG)
+
 ## Current Features
 
 - Role-oriented experiences for Employees, Technicians, IT Managers, and Administrators.
