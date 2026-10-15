@@ -1,0 +1,6 @@
+{
+  "name": "DeskFlow — Enterprise IT Help Desk System",
+  "description": "Enterprise IT ticketing and service management system with role-based workflows for Employees, Technicians, IT Managers, and Administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
